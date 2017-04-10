@@ -1,2 +1,2 @@
 # note
-study notes 
+* 记录工作和学习遇到的知识
